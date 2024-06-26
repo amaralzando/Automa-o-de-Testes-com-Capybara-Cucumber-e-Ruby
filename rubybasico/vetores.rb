@@ -34,3 +34,6 @@
 # end
 
 5.times{puts 'bruno'}
+
+
+vetor = [1, 2, 3, 4, 5]
